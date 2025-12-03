@@ -38,4 +38,4 @@ python main.py
 > **Note:** Some functions have not been uploaded yet, and the complete code will be available soon.
 
 # Contact
-If any link is invalid or any question, please email zengsk@my.swjtu.edu.cn
+If any link is invalid or any question, please email zengsk@my.swjtu.edu.cn.
