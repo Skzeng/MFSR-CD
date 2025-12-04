@@ -22,7 +22,7 @@ Distributed Acoustic Sensing (DAS) has revolutionized long-distance monitoring i
 - scipy==1.6.2
 - tqdm==4.61.2
 - wandb==0.18.7
-- PyYAML
+- PyYAML==5.4.1
 
 # Dataset
 We provide the preprocessed DAS dataset used in this study. Due to the file size limitations of GitHub, the data is available in [Google Drive](https://drive.google.com/drive/folders/1srdK02utYxMTQ1MMucNEF2R32Gx1TVvW?usp=drive_link).
